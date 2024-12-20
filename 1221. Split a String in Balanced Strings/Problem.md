@@ -1,3 +1,4 @@
+https://leetcode.com/problems/split-a-string-in-balanced-strings/description/
 Balanced strings are those that have an equal quantity of 'L' and 'R' characters.
 Given a balanced string s, split it into some number of substrings such that:
 Each substring is balanced.
